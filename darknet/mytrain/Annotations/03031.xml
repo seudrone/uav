@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pic1</folder>
+  <filename>03031</filename>
+  <path>C:\Users\Administrator\Desktop\outputpic2\outputpic2\pic1\03031.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>291</xmin>
+      <ymin>115</ymin>
+      <xmax>454</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+</annotation>

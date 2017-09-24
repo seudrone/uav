@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pic6</folder>
+  <filename>02334</filename>
+  <path>D:\professional\srtp\mysrtp\100MEDIA\pic\pic6\02334.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chariot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>9</ymin>
+      <xmax>226</xmax>
+      <ymax>244</ymax>
+    </bndbox>
+  </object>
+</annotation>

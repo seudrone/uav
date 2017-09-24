@@ -1,0 +1,6 @@
+classes= 6
+train  = /home/jungle/darknet_our/mytrain/train.txt
+valid  = /home/jungle/darknet_our/mytrain/val.txt
+names = data/chariot.names
+backup = /home/jungle/darknet_our/backup
+

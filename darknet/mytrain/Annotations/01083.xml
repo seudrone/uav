@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pic4</folder>
+  <filename>01083</filename>
+  <path>D:\Files\windows_v1.2.2\windows_v1.2.2\data\pic\pic4\01083.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chariot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>60</ymin>
+      <xmax>384</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+</annotation>

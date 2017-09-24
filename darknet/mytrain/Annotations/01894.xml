@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pic6</folder>
+  <filename>01894</filename>
+  <path>D:\professional\srtp\mysrtp\100MEDIA\pic\pic6\01894.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>box</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>217</ymin>
+      <xmax>251</xmax>
+      <ymax>269</ymax>
+    </bndbox>
+  </object>
+</annotation>

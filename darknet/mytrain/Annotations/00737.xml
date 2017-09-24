@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pic3</folder>
+  <filename>00737</filename>
+  <path>D:\16-17-3\yolo\pic3\00737.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chariot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>88</xmin>
+      <ymin>28</ymin>
+      <xmax>328</xmax>
+      <ymax>252</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+  <folder>pic2</folder>
+  <filename>00395</filename>
+  <path>D:\Documents\Tencent Files\767422171\FileRecv\pic\pic2\00395.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chariot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>194</xmin>
+      <ymin>1</ymin>
+      <xmax>367</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>272</xmin>
+      <ymin>1</ymin>
+      <xmax>364</xmax>
+      <ymax>24</ymax>
+    </bndbox>
+  </object>
+</annotation>

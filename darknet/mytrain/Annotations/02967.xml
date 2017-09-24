@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pic2</folder>
+  <filename>02967</filename>
+  <path>D:\Documents\Tencent Files\767422171\FileRecv\outputpic2\pic2\02967.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chariot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>128</ymin>
+      <xmax>274</xmax>
+      <ymax>233</ymax>
+    </bndbox>
+  </object>
+</annotation>

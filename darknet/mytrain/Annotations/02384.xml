@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pic1</folder>
+  <filename>02384</filename>
+  <path>C:\Users\Administrator\Desktop\pic\pic\pic1\02384.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chariot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>120</xmin>
+      <ymin>49</ymin>
+      <xmax>377</xmax>
+      <ymax>231</ymax>
+    </bndbox>
+  </object>
+</annotation>
